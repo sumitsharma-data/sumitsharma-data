@@ -1,6 +1,9 @@
-# Hi there, I'm Sumit Sharma 👋
-🎓 PGDM (Data Science) Student
-📊 Aspiring Data Analyst
+# Hi 👋, I'm Sumit Sharma
+
+### 📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel
+I'm a PGDM (Data Science) student passionate about solving business problems using data. I enjoy cleaning messy datasets,
+creating interactive dashboards, and extracting meaningful insights through SQL and Python.
+I'm actively building end-to-end analytics projects while preparing for Data Analyst opportunities.
 💻 Passionate about transforming data into actionable insights.
 
 ---
