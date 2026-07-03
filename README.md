@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Sumit Sharma 👋
+🎓 PGDM (Data Science) Student
+📊 Aspiring Data Analyst
+💻 Passionate about transforming data into actionable insights.
 
-<!--
-**sumitsharma-data/sumitsharma-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📍 India
+- 🎓 PGDM in Data Science
+- 📈 Interested in Data Analytics & Business Intelligence
+- 🌱 Currently learning Machine Learning and Advanced SQL
+- 💼 Open to Data Analyst opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- PostgreSQL
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+### 📊 Marketing Analytics
+Marketing campaign analysis using SQL, Python, and Power BI.
+
+### 📈 Customer Churn Analysis
+EDA and predictive insights using Python.
+
+### ₿ Crypto Market Sentiment Analysis
+Analysis of Bitcoin market trends using the Fear & Greed Index.
+
+---
+
+## 📫 Connect with Me
+Email:
+**sumits9720@gmail.com**
+
+LinkedIn:
+(https://www.linkedin.com/in/sumit-sharma-3b511b250/)
